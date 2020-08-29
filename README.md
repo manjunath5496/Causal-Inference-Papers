@@ -33,92 +33,91 @@ Deep Latent-Variable Models</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(15).pdf" style="text-decoration:none;">Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(16).pdf" style="text-decoration:none;">Loop quantum cosmology and slow roll inflation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(16).pdf" style="text-decoration:none;">RNN-based counterfactual prediction</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(17).pdf" style="text-decoration:none;">Casting Loop Quantum Cosmology in the Spin Foam Paradigm</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(17).pdf" style="text-decoration:none;">Matching with Text Data: An Experimental Evaluation of Methods for Matching Documents and of Measuring Match Quality</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(18).pdf" style="text-decoration:none;">The Big Bang and the Quantum</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(18).pdf" style="text-decoration:none;">Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(19).pdf" style="text-decoration:none;">Path Integrals and the WKB approximation in Loop Quantum Cosmology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(19).pdf" style="text-decoration:none;">Benchmarking Framework for Performance-Evaluation of Causal Inference Analysis</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(20).pdf" style="text-decoration:none;">Surprises in the Evaporation of 2-dimensional Black Holes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(20).pdf" style="text-decoration:none;">Adversarial Generalized Method of Moments</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(21).pdf" style="text-decoration:none;">Evaporation of 2-Dimensional Black Holes</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(22).pdf" style="text-decoration:none;">A Hamiltonian Formulation of the BKL Conjecture</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(21).pdf" style="text-decoration:none;">A Constraint-Based Algorithm For Causal Discovery with Cycles, Latent Variables and Selection Bias</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(22).pdf" style="text-decoration:none;">The Blessings of Multiple Causes</a></li> 
  
  
  
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(23).pdf" style="text-decoration:none;">Probability of Inflation in Loop Quantum Cosmology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(23).pdf" style="text-decoration:none;">Consistent Estimation of Propensity Score Functions with Oversampled Exposed Subjects</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(24).pdf" style="text-decoration:none;">Loop Quantum Cosmology: A Status Report</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(24).pdf" style="text-decoration:none;">Orthogonal Random Forest for Causal Inference</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(25).pdf" style="text-decoration:none;">Positive cosmological constant in loop quantum cosmology</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(26).pdf" style="text-decoration:none;">Introduction to Loop Quantum Gravity</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(27).pdf" style="text-decoration:none;">Perturbations in loop quantum cosmology</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(25).pdf" style="text-decoration:none;">Interpretable Almost Matching Exactly for Causal Inference</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(26).pdf" style="text-decoration:none;">Identifying Causal Effects with the R Package causal effect</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(27).pdf" style="text-decoration:none;">Local Linear Forests</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(28).pdf" style="text-decoration:none;">A Quantum Gravity Extension of the Inflationary Scenario</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(28).pdf" style="text-decoration:none;">Challenges of Using Text Classifiers for Causal Inference</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(29).pdf" style="text-decoration:none;">On the Uniqueness of Kinematics of Loop Quantum Cosmology</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(29).pdf" style="text-decoration:none;">Causal Effect Identification from Multiple Incomplete Data Sources: A General Search-based Approach</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(30).pdf" style="text-decoration:none;">An Extension of the Quantum Theory of Cosmological Perturbations to the Planck Era</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(30).pdf" style="text-decoration:none;">When Causal Intervention Meets Adversarial Examples and Image Masking for Deep Neural Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(31).pdf" style="text-decoration:none;">The Astrophysical Multimessenger Observatory Network (AMON)</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(32).pdf" style="text-decoration:none;">The pre-inflationary dynamics of loop quantum cosmology: Confronting quantum gravity with observations</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(31).pdf" style="text-decoration:none;">Using Embeddings to Correct for Unobserved Confounding in Networks</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(32).pdf" style="text-decoration:none;">Machine learning in policy evaluation: new tools for causal inference</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(33).pdf" style="text-decoration:none;">Loop Quantum Gravity and the The Planck Regime of Cosmology</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(33).pdf" style="text-decoration:none;">Adapting Text Embeddings for Causal Inference</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(34).pdf" style="text-decoration:none;">Dynamical Black Holes: Approach to the Final State</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(34).pdf" style="text-decoration:none;">An Evaluation Toolkit to Guide Model Selection and Cohort Definition in Causal Inference</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(35).pdf" style="text-decoration:none;">A new perspective on CP and T violation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(35).pdf" style="text-decoration:none;">Adapting Neural Networks for the Estimation of Treatment Effects</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(36).pdf" style="text-decoration:none;">Time in Fundamental Physics</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(36).pdf" style="text-decoration:none;">Gradient-Based Neural DAG Learning</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(37).pdf" style="text-decoration:none;">The Last 50 Years of General Relativity & Gravitation: From GR3 to GR20 Warsaw Conferences</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(38).pdf" style="text-decoration:none;">From General Relativity to Quantum Gravity</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(39).pdf" style="text-decoration:none;">Geometry and Physics of Null Infinity</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(40).pdf" style="text-decoration:none;">Asymptotics with a positive cosmological constant: I. Basic framework</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(41).pdf" style="text-decoration:none;">General Relativity and Gravitation: A Centennial Perspective (1-32)</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(42).pdf" style="text-decoration:none;">General Relativity and Gravitation: A Centennial Perspective(1-80)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(37).pdf" style="text-decoration:none;">Learning Individual Causal Effects from Networked Observational Data</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(38).pdf" style="text-decoration:none;">Reinforcement Knowledge Graph Reasoning for Explainable Recommendation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(39).pdf" style="text-decoration:none;">A neural network oracle for quantum nonlocality problems in networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(40).pdf" style="text-decoration:none;">Optimal Estimation of Generalized Average Treatment Effects using Kernel Optimal Matching</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(41).pdf" style="text-decoration:none;">Causal inference using Bayesian non-parametric quasi-experimental design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(42).pdf" style="text-decoration:none;">CAUSALITY FOR MACHINE LEARNING</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(43).pdf" style="text-decoration:none;">Preferred instantaneous vacuum for linear scalar fields in cosmological space-times</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(44).pdf" style="text-decoration:none;">Unitarity and ultraviolet regularity in cosmology</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(45).pdf" style="text-decoration:none;">Loop quantum cosmology:
-From pre-inflationary dynamics to observations</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(43).pdf" style="text-decoration:none;">A Causal Inference Method for Reducing Gender Bias inWord Embedding Relations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(44).pdf" style="text-decoration:none;">Variable-lag Granger Causality
+for Time Series Analysis</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(45).pdf" style="text-decoration:none;">Variable-lag Granger Causality and Transfer Entropy for Time Series Analysis</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(46).pdf" style="text-decoration:none;">Viewpoint: Simplicity of Black Holes</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(46).pdf" style="text-decoration:none;">CausalML: Python Package for Causal Machine Learning</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(47).pdf" style="text-decoration:none;">Dynamical and Hamiltonian formulation of General Relativity</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(48).pdf" style="text-decoration:none;">Asymptotics with a positive cosmological constant: II. Linear fields on de Sitter space-time</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(47).pdf" style="text-decoration:none;">Unbiased Scene Graph Generation from Biased Training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(48).pdf" style="text-decoration:none;">Sense and Sensitivity Analysis: Simple Post-Hoc Analysis of Bias Due to Unobserved Confounding</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(49).pdf" style="text-decoration:none;">100 Years of General Relativity </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(49).pdf" style="text-decoration:none;">A Practical Introduction to Bayesian Estimation of Causal Effects: Parametric and Nonparametric Approaches </a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(50).pdf" style="text-decoration:none;">Generalized effective description of loop quantum cosmology</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(51).pdf" style="text-decoration:none;">Gravitational waves from isolated systems: Surprising consequences of a positive cosmological constant</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(52).pdf" style="text-decoration:none;">Asymptotics with a positive cosmological constant: III. The quadrupole formula</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(50).pdf" style="text-decoration:none;">Does Terrorism Trigger Online Hate Speech? On the Association of Events and Time Series</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(51).pdf" style="text-decoration:none;">Causal Modeling of Twitter
+Activity During COVID-19</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(52).pdf" style="text-decoration:none;">Identifying Causal Structure in Dynamical Systems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(53).pdf" style="text-decoration:none;">Symmetry Reduced Loop Quantum Gravity: A Bird's Eye View</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(53).pdf" style="text-decoration:none;">Causal intersectionality for fair ranking</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(54).pdf" style="text-decoration:none;">Quantum Gravity in the Sky:
-Interplay between fundamental theory and observations </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(54).pdf" style="text-decoration:none;">ReCO: A Large Scale Chinese
+Reading Comprehension Dataset on Opinion</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(55).pdf" style="text-decoration:none;">Initial conditions for cosmological perturbations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(55).pdf" style="text-decoration:none;">Autoregressive flow-based causal discovery and inference</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(56).pdf" style="text-decoration:none;">Phenomenology with 
-fluctuating quantum geometries in loop quantum cosmology </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(56).pdf" style="text-decoration:none;">Structural Causal Models Are (Solvable by) Credal Networks </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(57).pdf" style="text-decoration:none;">The Overview Chapter in
-Loop Quantum Gravity: The First 30 Years</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(57).pdf" style="text-decoration:none;">Representation Learning for Treatment Effect Estimation from Observational Data</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(58).pdf" style="text-decoration:none;">Implications of a positive cosmological constant for general relativity</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(59).pdf" style="text-decoration:none;">The kinematical Setup of Quantum Geometry: A Brief Review</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(58).pdf" style="text-decoration:none;">Adapting Neural Networks for the Estimation of Treatment Effects</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(59).pdf" style="text-decoration:none;">Debiased Bayesian inference for average treatment effects</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(60).pdf" style="text-decoration:none;">On a basic conceptual confusion in gravitational radiation theory </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(60).pdf" style="text-decoration:none;">Using Embeddings to Correct for Unobserved Confounding in Networks </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(61).pdf" style="text-decoration:none;">On the ambiguity in the notion of transverse traceless modes of gravitational waves</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Causal-Inference-Papers/blob/master/cia(61).pdf" style="text-decoration:none;">Outcome-adaptive lasso: variable selection for causal inference</a></li>
  
 </ul>
